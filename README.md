@@ -1,3 +1,8 @@
+# Install Node.js
+Install the LTS version of node.js
+
+# Run `npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
